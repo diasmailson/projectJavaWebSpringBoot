@@ -1,0 +1,5 @@
+package com.mailsondias.userdept.controllers;
+
+public class UserController {
+
+}
