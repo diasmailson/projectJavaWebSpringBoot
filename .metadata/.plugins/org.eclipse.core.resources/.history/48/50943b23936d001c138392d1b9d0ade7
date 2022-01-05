@@ -1,0 +1,5 @@
+package com.mailsondias.userdept.entities;
+
+public class Department {
+
+}
